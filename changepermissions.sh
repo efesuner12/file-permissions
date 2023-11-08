@@ -1,5 +1,6 @@
 #!bin/bash
 
+#Valid extensions
 EXTENSION_ARRAY=('pdf' 'xlsx' 'pptx' 'docx' 'txt' 'py' 'java' 'class' 'c' 'cpp' 'jpg' 'JPG' 'gif' 'png' 
 'jfif' 'mp4' 'mp3' 'm3u' 'wma' 'asd' 'exe' 'sh' 'ps1' 'zip' 'sql' 'mwb')
 
