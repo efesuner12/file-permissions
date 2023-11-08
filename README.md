@@ -1,5 +1,5 @@
 # file-permissions
-A bash script to secure the permissions of your files. Built for Linux Operating Systems.<br />
+A bash script to update the permissions of your files to a more secure design. Built for Linux Operating Systems.<br />
 
 <b>Permissions Assigned:</b>
 <ul>
